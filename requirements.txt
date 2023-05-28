@@ -2,6 +2,7 @@ appdirs==1.4.4
 astroid==2.4.2
 attrs==20.3.0
 black==20.8b1
+certifi
 cfgv==3.2.0
 click==7.1.2
 distlib==0.3.1
@@ -46,4 +47,3 @@ typing-extensions==3.7.4.3
 virtualenv==20.2.2
 Werkzeug==1.0.1
 wrapt==1.12.1
-httpx
